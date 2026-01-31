@@ -10,4 +10,4 @@ print(age, type(age))
 score = 80.5
 print(isinstance(score, int))
 print(isinstance(score, float))
-print(type(score, float))
+print(type(score),score)
